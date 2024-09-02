@@ -1,3 +1,3 @@
-Hello World, Start des Gemeinwesen Blog 2024-08-31
+Start des Gemeinwesen Blog 2024-08-31
 
 ...
