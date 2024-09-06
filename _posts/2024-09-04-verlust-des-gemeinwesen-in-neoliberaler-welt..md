@@ -2,8 +2,6 @@ Die neoliberale Ideologie, die in den vergangenen Jahrzehnten dominierte, hat ti
 
 Die Folge ist ein Verlust an sozialer Kohäsion und ein Schwinden des Gemeinschaftsgefühls. Die einst selbstverständlichen Formen der Nachbarschaftshilfe und des ehrenamtlichen Engagements sind immer seltener geworden. Stattdessen dominiert eine Gesellschaft, in der jeder Einzelne für sich selbst verantwortlich ist.
 
-## Der Verlust des Gemeinwesens in einer neoliberalen Welt
-
 Das **Gemeinwesen, der Ort, an dem Menschen zusammenkommen, sich austauschen und gegenseitig unterstützen**, hat an Bedeutung verloren. Soziale Räume, in denen sich unterschiedliche Generationen und Kulturen begegnen konnten, sind immer seltener geworden. An ihre Stelle sind oft sterile Wohnsiedlungen getreten, in denen jeder in seiner eigenen Welt lebt.
 
 ## Die Folgen dieses Wandels sind vielfältig. 
