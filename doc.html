@@ -5,7 +5,7 @@ layout: default
 <p>Texte zum Themenbereich</p>
 
 <div class="posts">
-  {% for post in site.doc %}
+  {% for post in site._doc %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
